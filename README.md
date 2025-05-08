@@ -1,6 +1,12 @@
 ## CineSplat Release History
 
 * v1.1 - May 5 2025
+    * (May 8 2025) Feature - Changed password field to text field on Landing page. 
+    * (May 8 2025) Feature - Changed password field placeholder to Location and Sign In button title to Start.
+    * (May 8 2025) Feature - Modified Location field to be case insensitive.
+    * (May 8 2025) Feature - Mapped provided Locations to Model Ids.
+    * (May 8 2025) Feature - Captures archive name mapped to Location Name or ModelID if name not available.
+    * (May 8 2025) Bugfix - Issue when settings not properly maintained while switching between viewer and captures.
     * Feature - Tool selections, camera, and target positions maintained when switching between the viewer and captures.
     * Feature - 'Enter' triggers clicking the Login button on the Password page.
     * Feature - Display loading animation when clicking on the Login button.
