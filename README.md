@@ -1,7 +1,8 @@
 ## CineSplat Release History
 
 * v1.1 - May 5 2025
-    * (May 8 2025) Feature - Changed password field to text field on Landing page. 
+    * (May 10 2025) Feature - Added 0.4 transparent black overlay for landing page. 
+    * (May 8 2025) Feature - Changed password field to text field on landing page. 
     * (May 8 2025) Feature - Changed password field placeholder to Location and Sign In button title to Start.
     * (May 8 2025) Feature - Modified Location field to be case insensitive.
     * (May 8, 2025) Feature - Mapped provided Locations to Model IDs.
