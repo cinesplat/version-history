@@ -27,7 +27,7 @@
     * Bugfix - In/Out control with keypad (Shift + Up/Shift + Down ) not working.
     * Bugfix - Translate/Roll sometimes loses settings.
     * Bugfix - Maintain the image size irrespective of the number of images shown on the captures page.
-    * Bugfix - Reset translation and roll on local point change to ensure focal adjustments account for translation and roll.
+    * Bugfix - Reset translation and roll on focal point change to avoid target position misalignment.
 
 * v1.0.2 - Mar 2 2025
     * Changed tool sequence.
