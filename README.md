@@ -1,6 +1,7 @@
 ## CineSplat Release History
 
 * v1.1 - May 5 2025
+    * (May 10 2025) Feature - Clicking on Cinesplat logo redirects to root URL. 
     * (May 10 2025) Feature - Added 0.4 transparent black overlay for landing page. 
     * (May 8 2025) Feature - Changed password field to text field on landing page. 
     * (May 8 2025) Feature - Changed password field placeholder to Location and Sign In button title to Start.
