@@ -1,6 +1,7 @@
 ## CineSplat Release History
 
 * v1.1 - May 5 2025
+    * (May 24 2025) Feature - Normalized star icon sizes.
     * (May 24 2025) Feature - Doubleclick on the image opens the image in fullscreen on captures.
     * (May 24 2025) Feature - Changed favourites icon to a red circle with a white star.
     * (May 10 2025) Feature - Clicking on Cinesplat logo redirects to root URL. 
