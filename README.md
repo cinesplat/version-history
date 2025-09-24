@@ -1,6 +1,8 @@
 ## CineSplat Release History
 
 * v1.1 - May 5 2025
+    * (September 25 2025) Feature - Button H resets to default camera and target positions.
+    * (September 11 2025) Bugfix - Capture modal pup-up rendered out of view when scrolled down.
     * (May 24 2025) Feature - Normalized star icon sizes.
     * (May 24 2025) Feature - Doubleclick on the image opens the image in fullscreen on captures.
     * (May 24 2025) Feature - Changed favourites icon to a red circle with a white star.
