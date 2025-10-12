@@ -1,5 +1,11 @@
 ## CineSplat Release History
 
+* v1.3 - October 11 2025
+    * (October 12 2025) Feature - Navigation Up-Down is now in-out, W-S is up-down. Shift applies 4x speed.
+    * (October 12 2025) Feature - New page title handling. Version printed in console only.
+    * (October 12 2025) Feature - Added Google Analytics.
+    * (October 11 2025) Feature - Removed console.log statements.
+
 * v1.1 - May 5 2025
     * (September 25 2025) Feature - Button H resets to default camera and target positions.
     * (September 11 2025) Bugfix - Capture modal pup-up rendered out of view when scrolled down.
