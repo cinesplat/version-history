@@ -1,6 +1,8 @@
 ## CineSplat Release History
 
 * v1.3 - October 11 2025
+    * (November 1 2025) Feature - Added loading indicator while the splat is being loaded.
+    * (November 1 2025) Feature - Changed top icons.
     * (October 27 2025) Feature - Added C and I hotkeys.
     * (October 27 2025) Feature - Info modal for scene section.
     * (October 15 2025) Feature - Smooth navigation, decoupled from UI.
