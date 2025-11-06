@@ -1,6 +1,9 @@
 ## CineSplat Release History
 
 * v1.3 - October 11 2025
+    * (November 6 2025) Bugfix - Selecting whole three container resulting in blue overlay.
+    * (November 6 2025) Bugfix - Touch doubleclick sometimes not working.
+    * (November 6 2025) Bugfix - Resolved capture images intermittently not loading.
     * (November 5 2025) Feature - Landing page redesign, added list of locations to choose from.
     * (November 1 2025) Feature - Added loading indicator while the splat is being loaded.
     * (November 1 2025) Feature - Changed top icons.
