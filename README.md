@@ -1,6 +1,7 @@
 ## CineSplat Release History
 
 * v1.3 - October 11 2025
+    * (January 5 2026) Feature - Added look around controls on keyboard keys - A/D/Q/E.
     * (November 6 2025) Bugfix - Selecting whole three container resulting in blue overlay.
     * (November 6 2025) Bugfix - Touch doubleclick sometimes not working.
     * (November 6 2025) Bugfix - Resolved capture images intermittently not loading.
